@@ -2,20 +2,19 @@
  background-color: rgb(70, 130, 180);
 }
 .barra ul {
-  display: flex;
-  justify-content: center;
-  padding: 10px; 
+  display: flex; /* ajudar na centralização */
+  justify-content: center; /* ajudar na centralização */
+  padding: 10px; /* grossura da barra de nav */
 }
 .barra ul li {
- display: inline-block;
-/*  justify-content: center; */
- padding: 4px; 
+ display: inline-block; /* deixar o nav em linha */
+ padding: 4px;  /* espaçamento dos itens te lista */
 }
 .barra ul li a { 
-  font-size: 1.1em; 
+  font-size: 1.1em;  /* tamanho da fonte */
   color: rgb(0, 0, 0);
 }
 .barra ul li a:hover { 
   background-color: rgb(100, 200, 200);
-  padding: 10px; 
+  padding: 10px; /* grossura do link da barra de nav */  
 }
