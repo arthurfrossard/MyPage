@@ -22,5 +22,11 @@
   padding: 10px; /* grossura do link da barra de nav */  
 }
 main {
-  text-align: center;
+  text-align: center; /* centralizar texto */
+}
+footer {
+ background-color: rgb(70, 130, 180);
+ padding: 1px;
+ text-align: center; /* centralizar texto */
+ font-size: 0.9em;  /* tamanho da fonte */ 
 }
