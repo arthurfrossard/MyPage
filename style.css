@@ -26,7 +26,8 @@ main {
 }
 footer {
  background-color: rgb(70, 130, 180);
+ display: flex; /* ajudar na centralização */
+ justify-content: center; /* ajudar na centralização */
  padding: 1px;
- text-align: center; /* centralizar texto */
- font-size: 0.9em;  /* tamanho da fonte */ 
+ font-size: 0.9em;  /* tamanho da fonte */  
 }
