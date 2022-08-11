@@ -1,6 +1,10 @@
 .topo, .barra {
  background-color: rgb(70, 130, 180);
 }
+.barra ul li a { 
+  font-size: 1.1em; 
+  color: rgb(0, 0, 0); 
+}
 .barra ul {
   display: flex;
   justify-content: center;
@@ -16,8 +20,4 @@
 }
 .nav {
   color: black;
-}
-.barra ul li a { 
-  font-size: 1.1em; 
-  color: rgb(0, 0, 0); 
 }
