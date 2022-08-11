@@ -1,5 +1,5 @@
 .topo, .barra {
- background-color: #F96661;
+ background-color: steelblue;
 }
 .barra ul {
   display: flex;
@@ -9,4 +9,15 @@
  display: inline-block;
  justify-content: center;
  padding-right: 50px;
+}
+.redes ul li {
+  display: flex;
+  justify-content: center;
+}
+.nav {
+  color: black;
+}
+.barra ul li a { 
+  font-size: 1.1em; 
+  color: rgb(0, 0, 0); 
 }
