@@ -1,3 +1,6 @@
+.topo {
+  text-align: center; /* centralizar foto e nome */
+}
 .topo, .barra {
  background-color: rgb(70, 130, 180);
 }
@@ -17,4 +20,7 @@
 .barra ul li a:hover { 
   background-color: rgb(100, 200, 200);
   padding: 10px; /* grossura do link da barra de nav */  
+}
+main {
+  text-align: center;
 }
