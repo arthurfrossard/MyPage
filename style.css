@@ -1,18 +1,27 @@
+body {
+
+}
 .topo, .barra {
  background-color: rgb(70, 130, 180);
-}
-.barra ul li a { 
-  font-size: 1.1em; 
-  color: rgb(0, 0, 0); 
+ width: center;
 }
 .barra ul {
   display: flex;
   justify-content: center;
+  padding: 10px; 
 }
 .barra ul li {
  display: inline-block;
  justify-content: center;
- padding-right: 50px;
+ padding: 4px;
+}
+.barra ul li a { 
+  font-size: 1.1em; 
+  color: rgb(0, 0, 0);
+}
+.barra ul li a:hover { 
+  font-size: 1.2em; 
+  background-color: rgb(250, 0, 0)
 }
 .redes ul li {
   display: flex;
