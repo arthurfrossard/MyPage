@@ -1,5 +1,5 @@
 .topo, .barra {
- background-color: steelblue;
+ background-color: rgb(70, 130, 180);
 }
 .barra ul {
   display: flex;
