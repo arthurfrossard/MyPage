@@ -1,4 +1,12 @@
-html, body {
-  height: 100%;
-  width: 100%;
+.topo, .barra {
+ background-color: #F96661;
+}
+.barra ul {
+  display: flex;
+  justify-content: center;
+}
+.barra ul li {
+ display: inline-block;
+ justify-content: center;
+ padding-right: 50px;
 }
