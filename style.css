@@ -24,6 +24,30 @@
 main {
   text-align: center; /* centralizar texto */
 }
+#mainIndex {
+  text-align: center; /* centralizar texto */
+}
+#mainCont {
+  text-align: center; /* centralizar texto */
+}
+#mainForm {
+  display: flex;
+  justify-content: center;
+}
+.formacao {
+  border: 4px solid rgb(100, 200, 200);
+  justify-content: center; /* ajudar na centralização */ 
+  text-align: center; /* centralizar foto e nome */
+}
+#mainExp {
+  display: flex;
+  justify-content: center;
+}
+.experiencia {
+  border: 4px solid rgb(100, 200, 200);
+  justify-content: center; /* ajudar na centralização */ 
+  text-align: center; /* centralizar foto e nome */
+}
 footer {
  background-color: rgb(70, 130, 180);
  text-align: center;
