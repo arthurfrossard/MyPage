@@ -35,7 +35,6 @@ main {
   justify-content: center;
 }
 .formacao {
-  border: 4px solid rgb(100, 200, 200);
   justify-content: center; /* ajudar na centralização */ 
   text-align: center; /* centralizar foto e nome */
 }
@@ -44,7 +43,6 @@ main {
   justify-content: center;
 }
 .experiencia {
-  border: 4px solid rgb(100, 200, 200);
   justify-content: center; /* ajudar na centralização */ 
   text-align: center; /* centralizar foto e nome */
 }
