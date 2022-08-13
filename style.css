@@ -4,6 +4,9 @@
 .topo, .barra {
  background-color: rgb(70, 130, 180);
 }
+.picPrinc {
+  width: 250px;
+}
 .barra ul {
   display: flex; /* ajudar na centralização */
   justify-content: center; /* ajudar na centralização */
@@ -11,7 +14,7 @@
 }
 .barra ul li {
  display: inline-block; /* deixar o nav em linha */
- padding: 4px;  /* espaçamento dos itens te lista */
+ padding: 3px;  /* espaçamento dos itens te lista */
 }
 .barra ul li a { 
   font-size: 1.1em;  /* tamanho da fonte */
@@ -19,7 +22,7 @@
 }
 .barra ul li a:hover { 
   background-color: rgb(100, 200, 200);
-  padding: 10px; /* grossura do link da barra de nav */  
+  padding: 10px; /* grossura do link da barra de nav */
 }
 main {
   text-align: center; /* centralizar texto */
