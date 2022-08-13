@@ -37,7 +37,7 @@ main {
   display: flex;
   justify-content: center;
 }
-.formacao {
+.formacao .itemForm {
   justify-content: center; /* ajudar na centralização */ 
   text-align: center; /* centralizar foto e nome */
 }
