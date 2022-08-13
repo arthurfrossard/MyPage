@@ -1,26 +1,26 @@
-.topo {
+#topo {
   text-align: center; /* centralizar foto e nome */
 }
-.topo, .barra {
+#topo, #barra {
  background-color: rgb(70, 130, 180);
 }
-.picPrinc {
+#picPrinc {
   width: 250px;
 }
-.barra ul {
+#barra ul {
   display: flex; /* ajudar na centralização */
   justify-content: center; /* ajudar na centralização */
   padding: 10px; /* grossura da barra de nav */
 }
-.barra ul li {
+#barra ul li {
  display: inline-block; /* deixar o nav em linha */
  padding: 3px;  /* espaçamento dos itens te lista */
 }
-.barra ul li a { 
+#barra ul li a { 
   font-size: 1.1em;  /* tamanho da fonte */
   color: rgb(0, 0, 0);
 }
-.barra ul li a:hover { 
+#barra ul li a:hover { 
   background-color: rgb(100, 200, 200);
   padding: 10px; /* grossura do link da barra de nav */
 }
