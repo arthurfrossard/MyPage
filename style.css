@@ -14,7 +14,7 @@
 }
 #barra #listBar .itemListBar {
  display: inline-block; /* deixar o nav em linha */
- padding: 3px;  /* espaçamento dos itens te lista */
+ padding: 4px;  /* espaçamento dos itens te lista */
 }
 #barra #listBar .itemListBar a { 
   font-size: 1.1em;  /* tamanho da fonte */
